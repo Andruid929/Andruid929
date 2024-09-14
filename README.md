@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andruid929
+- 👋 Hi, I’m Andrew Jones
 - 👀 I’m a casual gamer
 - 🌱 I’m currently learning Java 
 - 📫 Discord is as good a place as any to say Hi
