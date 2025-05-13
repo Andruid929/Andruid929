@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Andrew Jones
-- 👀 I’m a casual gamer
-- 🌱 I’m currently learning Java 
-- 📫 Discord is as good a place as any to say Hi
+# GitHub/Andruid929
+
+Hi, my name is Andrew and I love to type on my keyboard 
+
+## Contact me
+
+Email: princeajsa@yahoo.com 
 
 <!---
 Andruid929/Andruid929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
