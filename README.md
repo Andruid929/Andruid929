@@ -16,7 +16,7 @@ Hi, my name is Andrew and I loooove to type on my keyboard!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
 
-## IDE
+## IDEs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
