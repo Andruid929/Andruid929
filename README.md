@@ -34,7 +34,7 @@ Hi, my name is Andrew and I loooove to type on my keyboard!
 
 ## Contact me
 
-![Discord](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg)
+[![Discord](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg)](https://discord.gg/801572193711685632)
 
 <!---
 Andruid929/Andruid929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
