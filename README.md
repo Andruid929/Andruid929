@@ -1,4 +1,4 @@
-# GitHub/Andruid929
+# Andruid929: Aspiring Java dev
 
 Hi, my name is Andrew and I loooove to type on my keyboard!
 
