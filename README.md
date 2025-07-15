@@ -1,11 +1,15 @@
-# public class Andruid929 extends Human implements AspiringJavaDev {
+# Andruid929: Aspiring Java dev
 
-//Hi, my name is Andrew and I loooove to type on my keyboard!
+Hi, my name is Andrew and I loooove to type on my keyboard!
 
 ```
-@Override
-public void activateSleepMode() {
-    throw new UnsupportedOperationException();
+public class Andruid929 extends Human implements AspiringDev {
+
+    @Override
+    public void activateSleepMode() {
+        throw new UnsupportedOperationException();
+    }
+
 }
 ```
 
@@ -43,7 +47,6 @@ public void activateSleepMode() {
 
 [<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"/>](https://discord.com/users/801572193711685632)
 
-# }
 <!---
 Andruid929/Andruid929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
