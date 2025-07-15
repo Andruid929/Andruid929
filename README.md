@@ -1,13 +1,18 @@
 # Andruid929: Aspiring Java dev
 
-Hi, my name is Andrew and I loooove to type on my keyboard!
-
 ```
 public class Andruid929 extends Human implements AspiringDev {
+
+    //Hi, my name is Andrew and I loooove to type on my keyboard!
 
     @Override
     public void activateSleepMode() {
         throw new UnsupportedOperationException();
+    }
+
+    @Override
+    public Developer getSoftwareDev() {
+        return (Developer) this;
     }
 
 }
