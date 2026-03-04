@@ -24,6 +24,8 @@ public class Andruid929 extends Human implements AspiringDev {
   
 ## My languages
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andruid929)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" width="40"/>
