@@ -18,15 +18,13 @@ public class Andruid929 extends Human implements AspiringDev {
 }
 ```
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=Andruid929&show_icons=true&theme=radical)](https://github.com/Andruid929/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=andruid929)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Highlight repos
 
 - [Mind Editor](https://github.com/Andruid929/mind-android) is my biggest project as of July 2025.
   
 ## My languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andruid929&hide=css&langs_count=8&layout=compact)](https://github.com/Andruid929/github-readme-stats)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
