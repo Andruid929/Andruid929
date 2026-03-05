@@ -50,6 +50,13 @@ public class Andruid929 extends Human implements AspiringDev {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40"/>
 </p>
 
+## Frameworks
+
+<p aligh="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40"/>
+</p>
+
 ## Contact me
 
 [<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"/>](https://discord.com/users/801572193711685632)
