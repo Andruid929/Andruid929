@@ -18,12 +18,10 @@ public class Andruid929 extends Human implements AspiringDev {
 }
 ```
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=andruid929)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Highlight repos
 
 - [Mind Editor](https://github.com/Andruid929/mind-android) is my biggest project as of July 2025.
-  
+
 ## My languages
 
 <p align="left">
@@ -41,6 +39,7 @@ public class Andruid929 extends Human implements AspiringDev {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40"/>
 </p>
 
 ## Build tools
@@ -52,7 +51,7 @@ public class Andruid929 extends Human implements AspiringDev {
 
 ## Frameworks
 
-<p aligh="left">
+<p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40"/>
 </p>
