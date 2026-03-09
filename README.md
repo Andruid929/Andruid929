@@ -7,7 +7,10 @@ public class Andruid929 extends Human implements AspiringDev {
 
     @Override
     public void sleep() {
-        throw new UnsupportedOperationException();
+        if (isExcited) {
+            throw new UnsupportedOperationException();
+        }
+        super.sleep();
     }
 
     @Override
