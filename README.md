@@ -27,6 +27,8 @@ public class Andruid929 extends Human implements AspiringDev {
 
 ## My languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andruid929&hide=css&langs_count=8&layout=compact)](https://github.com/Andruid929/github-readme-stats)
+
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
