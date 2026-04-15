@@ -50,6 +50,13 @@ public class Andruid929 extends Human implements AspiringDev {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40"/>
 </p>
 
+## DB
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
 ## Frameworks
 
 <p align="left">
