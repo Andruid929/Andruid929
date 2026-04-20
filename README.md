@@ -22,6 +22,7 @@ public class Andruid929 extends Human implements AspiringDev {
 ```
 
 [![Andruid929 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andruid929&show_icons=true&theme=radical)](https://github.com/Andruid929/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andruid929&hide=css&langs_count=8&layout=compact)](https://github.com/Andruid929/github-readme-stats)
 
 ### Highlight repos
 
