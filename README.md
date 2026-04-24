@@ -26,7 +26,8 @@ public class Andruid929 extends Human implements AspiringDev {
 
 ### Highlight repos
 
-- [Mind Editor](https://github.com/Andruid929/mind-android) is my biggest project as of July 2025.
+- [Le-utils](https://github.com/Andruid929/le-utils) my current favorite (public) project, utility library.
+- [Mind Editor](https://github.com/Andruid929/mind-android) my first dndroid app.
 
 ## My languages
 
