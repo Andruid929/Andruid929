@@ -20,14 +20,10 @@ public class Andruid929 extends Human implements AspiringDev {
 
 }
 ```
-
-[![Andruid929 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andruid929&theme=dracula&layout=compact)](https://github.com/Andruid929/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andruid929&show_icons=true&theme=dracula&langs_count=8&layout=compact)](https://github.com/Andruid929/github-readme-stats)
-
 ### Highlight repos
 
 - [Le-utils](https://github.com/Andruid929/le-utils) my current favorite (public) project, utility library.
-- [Mind Editor](https://github.com/Andruid929/mind-android) my first dndroid app.
+- [Mind Editor](https://github.com/Andruid929/mind-android) my first android app.
 
 ## My languages
 
